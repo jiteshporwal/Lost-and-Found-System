@@ -19,7 +19,6 @@ The "Lost and Found System" presents a valuable solution for addressing the chal
 ## Screenshots
 Here are some screenshots of the Rozgar Mitra platform:
 
-- ![Dashboard](Screenshots/dashboard.png)
 
 
 - ![Loginform](Screenshot/Loginform.png)
