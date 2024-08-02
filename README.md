@@ -16,11 +16,13 @@ The "Lost and Found System" presents a valuable solution for addressing the chal
 - git clone https://github.com/jiteshporwal/Lost-and-Found-System.git
 0 cd Lost-and-Found-System
 
-##screnshots
+## Screenshots
+Here are some screenshots of the Rozgar Mitra platform:
+
+- ![Dashboard](Screenshots/dashboard.png)
 
 
-
-- ![Loginform](Screenshots/Loginform.png)
-- ![Registration](Screenshots/Registration.png)
-- ![userInterface](Screenshots/userInterface.png)
-- ![AdminInterface](Screenshots/AdminInterface.png)
+- ![Loginform](Screenshot/Loginform.png)
+- ![Registration](Screenshot/Registration.png)
+- ![userInterface](Screenshot/userInterface.png)
+- ![AdminInterface](Screenshot/AdminInterface.png)
