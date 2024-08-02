@@ -18,5 +18,9 @@ The "Lost and Found System" presents a valuable solution for addressing the chal
 
 ##screnshots
 
-`Loginform.png`, `Registration.png`, `userInterface.png` , `AdminInterface`.
 
+
+- ![Loginform](Screenshots/Loginform.png)
+- ![Registration](Screenshots/Registration.png)
+- ![userInterface](Screenshots/userInterface.png)
+- ![AdminInterface](Screenshots/AdminInterface.png)
